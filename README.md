@@ -1,4 +1,4 @@
 # Instrument-Recognization
-solo musical instrument recognition
+Solo musical instrument recognition
+
 * SVM
-* 
